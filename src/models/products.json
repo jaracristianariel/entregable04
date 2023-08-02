@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Anillo de Oro",
+    "description": "Mariposa",
+    "stock": "5",
+    "thumbnail": "https://gratia-production.b-cdn.net/media/catalog/product/cache/3b33aed5b78d6ce9f9c79b826a2bb82b/p/r/pr89162.jpg",
+    "price": "5200",
+    "code": "ao002",
+    "id": "H8Ev7AOvaTwAMjQxs9gL8"
+  },
+  {
+    "title": "Anillo de Oro",
+    "description": "Corazon",
+    "stock": "5",
+    "thumbnail": "https://gratia-production.b-cdn.net/media/catalog/product/cache/3b33aed5b78d6ce9f9c79b826a2bb82b/d/i/dise_o_sin_t_tulo_50_.jpg",
+    "price": "5600",
+    "code": "ao004",
+    "id": "9ng57dNpEkRrUn_Qc8dtb"
+  },
+  {
+    "title": "Anillo de Plata",
+    "description": "Corona",
+    "stock": "6",
+    "thumbnail": "https://gratia-production.b-cdn.net/media/catalog/product/cache/3b33aed5b78d6ce9f9c79b826a2bb82b/p/r/pr65381.jpg",
+    "price": "3600",
+    "code": "ap001",
+    "id": "VcxCFbhJ59DGOpu1AYKHl"
+  },
+  {
+    "title": "Pulsera de Plata",
+    "description": "18cm",
+    "stock": "4",
+    "thumbnail": "https://gratia-production.b-cdn.net/media/catalog/product/cache/3b33aed5b78d6ce9f9c79b826a2bb82b/p/p/pp70031.jpg",
+    "price": "4100",
+    "code": "pp006",
+    "id": "XDs_TcdcNC1cCe4rFTZjm"
+  },
+  {
+    "title": "Pulsera de Oro y Plata",
+    "description": "18cm Enchapado en Oro",
+    "stock": "3",
+    "thumbnail": "https://gratia-production.b-cdn.net/media/catalog/product/cache/3b33aed5b78d6ce9f9c79b826a2bb82b/p/p/pp53090.jpg",
+    "price": "7200",
+    "code": "po007",
+    "id": "76TXt-X9UeLr1J2NXJbAM"
+  }
+]
